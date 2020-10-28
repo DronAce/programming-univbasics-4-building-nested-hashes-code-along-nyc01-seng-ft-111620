@@ -10,6 +10,11 @@ def fourth_challenge
           name: "Benvolio",
           age: "17",
           attitude: "worried"
+        },
+        second_friend: {
+          name: "Mercutio",
+          age:"18",
+          attitude: "hot-headed"
         }
       ]
    },
