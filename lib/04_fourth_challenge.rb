@@ -30,8 +30,8 @@ def fourth_challenge
           attitude: "confused"
         },
         second_friend: {
-          name:
-          age:
+          name: "Nurse",
+          age: "44"
           attitude:
         }
       ]
